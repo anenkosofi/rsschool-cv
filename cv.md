@@ -6,9 +6,9 @@ FRONT-END DEVELOPER
 
 Phone: +380 63 361 0563
 
-E-mail: anenko.sofiia@gmail.com
+E-mail: <anenko.sofiia@gmail.com>
 
-LinkedIn: https://www.linkedin.com/in/sofiia-anenko/
+LinkedIn: <https://www.linkedin.com/in/sofiia-anenko/>
 
 ## About me
 
